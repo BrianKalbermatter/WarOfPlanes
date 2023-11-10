@@ -13,6 +13,7 @@ Esta experiencia nos brindó una comprensión más profunda de cada fase del des
 El juego Sky Destroyer se ha convertido en un ejemplo de nuestro esfuerzo conjunto y nuestra dedicación para aprender y crecer como desarrolladores de software. 
 Estamos emocionados de presentar nuestro juego como parte de nuestro proyecto integrador final y estamos seguros de que reflejará el arduo trabajo y la pasión que hemos invertido en él.
 Resumen del Juego
+
 ● Título del juego:
 
 ● Género: Shooter en 3D
